@@ -1,2 +1,2 @@
-git is a git
-git is two gits
+git is a git haha
+git is two gits free
